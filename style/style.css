@@ -18,12 +18,7 @@ ol {
     background-color: yellow;
 }
 
-#lasagna {
-    height: 500;
-    width: auto;
-}
-
-#miso-soup {
-    height: 500;
-    width: auto;
+img {
+    width: 500px;
+    height: auto;
 }
